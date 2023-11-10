@@ -1,4 +1,4 @@
-# AMRL REAMDE
+# AMRL README
 
 Modifications to RLLib used for the paper AMRL: Aggregated Memory For Reinforcement Learning published at ICLR 2020 (https://iclr.cc/virtual_2020/poster_Bkl7bREtDr.html).
 
