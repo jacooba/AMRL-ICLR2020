@@ -2,6 +2,8 @@
 
 Modifications to RLLib used for the paper AMRL: Aggregated Memory For Reinforcement Learning published at ICLR 2020 (https://iclr.cc/virtual_2020/poster_Bkl7bREtDr.html).
 
+**Please note that [subsequent work, *SplAgger: Split Aggregation for Meta-Reinforcement Learning* (Beck et al., 2024)](https://arxiv.org/abs/2403.03020) has found the gradient modification component of AMRL to be detrimental in many environments.  Pytorch Code for these improved aggregators can be found [here](https://github.com/jacooba/hyper/blob/main/models/aggregator.py).**
+
 # Installation:
 
 install python 3.5 #e.g. conda create -n AMRL python=3.5  
